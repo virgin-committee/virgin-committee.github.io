@@ -1,5 +1,9 @@
 * {box-sizing:border-box}
 
+body{
+  background-color: #090e14;
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 400px;
