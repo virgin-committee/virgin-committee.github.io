@@ -2,6 +2,7 @@
 
 body{
   background-color: #090e14;
+  color:white;
 }
 
 /* Slideshow container */
@@ -14,6 +15,12 @@ body{
 /* Hide the images by default */
 .mySlides {
   display: none;
+}
+.mySlides > img{
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Next & previous buttons */
